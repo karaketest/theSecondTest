@@ -1,1 +1,1 @@
-const a = karake.log('eran');
+const a = karake.log('');
